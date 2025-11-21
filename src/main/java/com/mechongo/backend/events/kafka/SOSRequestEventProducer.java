@@ -1,0 +1,1 @@
+package com.mechongo.backend.events.kafka;
